@@ -1,0 +1,1 @@
+Priya Kumar\nExperience: 4 years\nSkills: Python, Pandas, NLP, Tensorflow, SQL\nSummary: Worked on NLP pipelines.
